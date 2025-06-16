@@ -23,7 +23,7 @@ const perguntas = [
             },
             {
             texto: "Alternativa2",
-            afirmacao: "afirmacao1"
+            afirmacao: "Porquinhos-da-índia podem se alimentar apenas de ração para cães e gatos, pois é suficiente para sua saúde"
             },
         ]
     },
