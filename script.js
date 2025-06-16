@@ -9,7 +9,9 @@ const textoResultado = document.querySelector(".texto-resultado");
 //com os atributos texto e afirmação
 const perguntas = [
     {
-        enunciado: "Qual a importância do 2PAC na cultura de plantações e ervas medicinais indigenas?",
+        enunciado: "O que os porquinhos-da-índia comem para se manterem saudáveis?
+
+",
         alternativas: [
             {
             texto: "Trazer dignidade e expandir a visibilidade cultural  afro-americana.",
@@ -22,7 +24,9 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "Como os porquinhos-da-índia se comunicam entre si e com os humanos?
+
+",
         alternativas: [
             {
             texto: "Trazer dignidade e expandir a visibilidade cultural  afro-americana.",
@@ -35,7 +39,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "Por que é importante manter os porquinhos-da-índia em pares ou grupos",
         alternativas: [
             {
             texto: "Trazer dignidade e expandir a visibilidade cultural  afro-americana.",
