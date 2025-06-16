@@ -14,8 +14,12 @@ const perguntas = [
 ",
         alternativas: [
             {
-            texto: "Trazer dignidade e expandir a visibilidade cultural  afro-americana.",
-            afirmacao: "O 2PAC foi fundamental para a cultura afro-americana. "
+            texto: "Eles precisam de uma dieta rica em feno, vegetais frescos (como cenoura, couve e pimentão) e ração específica. Também é essencial fornecer vitamina C, pois eles não produzem essa vitamina naturalmente.
+
+",
+            afirmacao: "Porquinhos-da-índia precisam de vitamina C na alimentação, pois não produzem essa vitamina naturalmente.
+
+. "
             },
             {
             texto: "Alternativa2",
